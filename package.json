@@ -1,0 +1,26 @@
+{
+  "name": "fruitbase-cycle-driver",
+  "version": "0.0.1",
+  "description": "Firebase driver for Cycle.js",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notapineapple/fruitbase-driver-cycle.git"
+  },
+  "keywords": [
+    "driver",
+    "cyclejs",
+    "es6",
+    "javascript",
+    "firebase"
+  ],
+  "author": "Jorge Garduno <damnyorch@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/notapineapple/fruitbase-driver-cycle/issues"
+  },
+  "homepage": "https://github.com/notapineapple/fruitbase-driver-cycle#readme"
+}
